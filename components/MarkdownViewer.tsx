@@ -56,7 +56,6 @@ const MarkdownViewer: React.FC<MarkdownViewerProps> = ({ content, theme }) => {
       margin-top: 2rem; 
       padding-bottom: 0.5rem; 
       line-height: 1.2;
-      border-bottom: 1px solid ${theme === ThemeMode.DARK ? '#1E293B' : '#E2E8F0'};
     }
     .md-render h2 { 
       font-size: 26px; 

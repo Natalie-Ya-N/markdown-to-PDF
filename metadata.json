@@ -1,0 +1,5 @@
+{
+  "name": "Markdown to PDF",
+  "description": "A professional tool to convert Markdown files into high-quality PDFs with customizable Light and Dark themes, supporting PDF bookmarks for side-bar navigation.",
+  "requestFramePermissions": []
+}
